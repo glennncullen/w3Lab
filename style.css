@@ -7,3 +7,17 @@ h3
 {
 text-shadow: 0 0 3px #FF0000;
 }
+a:link
+{
+color:blue;
+}
+
+a:visited
+{
+color:blue;
+}
+
+a:hover
+{
+color:white;
+}
